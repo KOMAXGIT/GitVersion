@@ -1,0 +1,5 @@
+org\git\version\VersionController.class
+META-INF\spring-configuration-metadata.json
+org\git\version\PersonProperties.class
+org\git\version\PersonServiceAutoConfiguration.class
+org\git\version\PersonService.class
